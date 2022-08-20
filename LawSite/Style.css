@@ -1,0 +1,747 @@
+h1{
+  
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    margin-left: 70px;
+    text-decoration: overline;
+    background-color: none;
+    width: 300px;
+    position: relative;
+    top: 18px;
+   
+
+    
+    
+}
+#discord{
+    color: white;
+padding: 5px;
+height: 20px;
+width: 260px;
+
+display: inline-block;
+position: relative;
+right: 180px;
+top: 40px;
+
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: underline;
+
+}
+
+#email{
+padding: 5px;
+height: 20px;
+width: 280px;
+text-decoration: underline;
+display: inline-block;
+position: relative;
+left: 600px;
+top:40px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#discord:hover{
+    color: gray;
+}
+
+#emaillink:hover{
+    color:rgb(26, 103, 235);
+}
+
+#emaillink{
+    background-color: white;
+    color: blue;
+    
+    
+}
+footer{
+   border-top: groove;
+    height: 100px;
+    width: 1405px;
+    position: sticky;
+ 
+  bottom: 0px;
+    opacity: 0.5;
+    background-color:black;
+
+   
+
+
+   
+}
+
+
+#Lawpic1{
+    
+    
+    width: 100%;
+    height: 450px;
+    border-bottom: double;
+    border-width: 2px;
+
+    
+    position: relative;
+    bottom: 20px;
+}
+body  
+{  
+    margin: 0;  
+    padding: 0;  
+ 
+    font-family: 'Arial';  
+  
+    
+}
+.logindiv{
+    
+    width: 450px;
+    display: inline-block;
+    height: 400px;
+    position: relative;
+    bottom: 480px;
+    box-sizing: border-box;
+    
+    
+}  
+#login{  
+  width: 300px;    
+        margin: auto;  
+        padding: 50px;
+     
+        background: none;  
+        border-radius: 20px ; 
+        margin-left: 90px; 
+        border:black double;
+        border-width: 5px;
+        
+        
+          
+}
+
+ 
+h2{  
+    height: 40px;
+    width: 70px;
+    color: black;  
+    padding: 2px;
+    margin-left: 180px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    position: relative;
+    top: 30px;
+}  
+label{  
+    color:black;  
+    font-size: 17px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: black solid 1px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 290px;  
+    height: 28px;  
+    border: black solid 1px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}  
+#log{  
+    width: 200px;  
+    height: 30px;  
+    border: solid 1px black;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+    margin-left: 45px;
+    background-color: none;
+    background-color: white;
+  
+}  
+#log:hover{  
+    width: 200px;  
+    height: 30px;  
+    border: solid 1px;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;  
+    background-color: black;
+    margin-left: 45px;
+  
+  
+} 
+
+#registerbutton{  
+    width: 200px;  
+    height: 30px;  
+    border: solid 1px black;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+    margin-left: 45px;
+    background-color: none;
+    background-color: white;
+  
+}  
+#registerbutton:hover{  
+    width: 200px;  
+    height: 30px;  
+    border: solid 1px;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;  
+    background-color: black;
+    margin-left: 45px;
+  
+  
+} 
+#Contactno{
+    width: 300px;  
+    height: 30px;  
+    border: black solid 1px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+
+}
+
+#Email{
+    width: 300px;  
+    height: 30px;  
+    border: black solid 1px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+
+}
+#RegUname{
+    width: 300px;  
+    height: 30px;  
+    border: black solid 1px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+
+}
+
+#RegPass{
+    width: 290px;  
+    height: 28px;  
+    border: black solid 1px;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+
+}
+span{  
+    color: white;  
+    font-size: 17px;  
+} 
+
+ 
+
+.registerdiv{
+    position: relative;
+    bottom: 300px;
+    display: inline-block;
+    margin-left: 80px;
+    box-sizing: border-box;
+    
+  
+    
+}  
+#register{  
+        width: 300px;    
+        margin: auto;  
+        padding: 50px;
+     
+        background: none;  
+        border-radius: 20px ; 
+        margin-left: 90px; 
+        border:black double;
+        border-width: 5px;
+        
+        
+        
+        
+          
+}
+#line{
+    border-left: solid;
+    background: black;
+    height: 900px;
+    display: inline-block;
+    margin-left: 200px;
+    opacity: 0.2;
+    position: relative;
+    top: 5px;
+   
+
+}
+#log1{
+    width: 200px;  
+    height: 30px;  
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    
+    margin-left: 750px;
+    background-color: white;
+    border-radius: 18px;
+    position: relative;
+    bottom: 20px;
+    box-sizing: border-box;
+
+}
+#log2{
+    width: 200px;  
+    height: 30px;  
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    margin-left: 5px;
+
+    background-color: white;
+    border-radius: 18px;
+    position: relative;
+    bottom: 20px;
+    box-sizing: border-box;
+    
+    
+
+}
+#log3{
+    width: 200px;  
+    height: 30px;  
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    margin-left: 5px;
+
+    background-color: white;
+    border-radius: 18px;
+    position: relative;
+    bottom: 20px;
+    box-sizing: border-box;
+    
+
+}
+#log1:hover{
+    background-color: black;
+    color: white;
+    
+}
+#log2:hover{
+    background-color: black;
+    color: white;
+    
+}
+#log3:hover{
+    background-color: black;
+    color: white;
+    
+}
+.lawyers{
+    display: block;
+    height: 180px;
+    width: 180px;
+    border: solid black 1px;
+    margin-left: 60px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+    position: relative;
+    top: 40px;
+
+}
+hr{
+ position: relative;
+ top: 15px;
+}
+.name{
+    margin-left: 50px;
+    margin-top: 20px;
+    width: 200px;  
+    height: 30px;  
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    
+
+    background-color: white;
+    border-radius: 18px;
+}
+.name:hover{
+background-color: black;
+    color: white;
+}
+.Experience{
+    display: inline;
+    position: relative;
+    bottom: 150px;
+    text-decoration: underline 1px solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    color: blue;
+    margin-left: 70px;
+    box-sizing: border-box;
+
+}
+.Aboutline{
+    display: inline-block;
+    position: relative;
+    bottom: 110px;
+    right: 170px;
+    width: 500px;
+  
+
+   
+}
+.Aboutline2{
+    display: inline-block;
+    position: relative;
+    bottom: 110px;
+    right: 160px;
+    width: 500px;
+  
+
+   
+}
+.Aboutline3{
+    display: inline-block;
+    position: relative;
+    bottom: 110px;
+    right: 170px;
+    width: 500px;
+  
+
+   
+}
+.Aboutline4{
+    display: inline-block;
+    position: relative;
+    bottom: 110px;
+    right: 160px;
+    width: 500px;
+  
+
+   
+}
+#lawyernames{
+    display: inline;
+    height: 90px;
+    width: 300px;
+    position: relative;
+    bottom: 500px;
+    margin-left: 50px;
+    color: blue;
+}
+#lorem{
+    display: inline block;
+    width: 200px;
+    height: 200px;
+    color: black;
+    position: relative;
+    margin-left: 50px ;
+    top: 25px;
+}
+
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ccc; /* Gray border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+  
+
+  input[type=submit] {
+    background-color: #04AA6D;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+
+  .container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    height: 550px;
+    display: inline-block;
+    width: 55%;
+    position: relative;
+    bottom: 400px;
+    margin-left: 400px;
+    border-radius: 15px;
+    background-color: white;
+    
+  }
+a{
+    text-decoration: none;
+    color: black;
+}
+/* About us page */
+
+#aboutusheading{
+   
+    width: 250px;
+    height: 50px;
+    font-size: xx-large;
+    font-family: fantasy;
+    background: black;
+    text-align: center;
+    color: white;
+    margin-left: 600px;
+    margin-bottom: 60px;
+
+}
+.paragraph{
+
+    text-align: justify;
+    width: 900px;
+    height: 200px;
+    margin-left: 250px;
+  
+    
+
+}
+#aboutimage{
+height: 200px;
+width: 200px;
+border-radius: 50%;
+display: inline-block;
+position: relative;
+bottom: 100px;
+margin-left: 300px;
+}
+
+#contact{
+    width: 500px;  
+    height: 30px;  
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    margin-left: 5px;
+
+    background-color: white;
+    border-radius: 18px;
+    position: sticky;
+    bottom: 250px;
+
+    
+
+}
+#contact:hover{
+    background-color: black;
+    color: white;
+    
+}
+.hourwage{
+    color: red;
+    position: relative;
+    margin-left: 330px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    bottom: 130px;
+    font-weight: bold;
+    width: 200px;
+    text-align: justify;
+    
+}
+#hours{
+    width: 180px;
+    height: 30px;
+    margin-left: 330px;
+    position: relative;
+    bottom: 120px
+}
+#hours2{
+    width: 180px;
+    height: 30px;
+    margin-left: 330px;
+    position: relative;
+    bottom: 120px
+}
+#hours3{
+    width: 180px;
+    height: 30px;
+    margin-left: 330px;
+    position: relative;
+    bottom: 120px
+}
+#hours4{
+    width: 180px;
+    height: 30px;
+    margin-left: 330px;
+    position: relative;
+    bottom: 120px
+}
+
+#calculate{
+    width: 120px;  
+    height: 30px;  
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    margin-left: 5px;
+
+    background-color: white;
+    border-radius: 18px;
+    position: relative;
+    bottom: 120px;
+    
+
+}
+#calculate:hover{
+    background-color: black;
+    color: white;
+}
+
+.bradleydiv{
+  
+    height: 400px;
+}
+.wanndiv{
+  
+    height: 400px;
+}
+.candydiv{
+  
+    height: 400px;
+}
+.heyleydiv{
+  
+    height: 400px;
+}
+#ratecalc{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    margin-left: 330px;
+    position: relative;
+    bottom: 120px;
+     border-style: groove;
+     width: 200px;
+     padding: 20px;
+     display:inline-block;
+     height: 5px;
+     border-radius: 10px;
+     border-color: red;
+     background-color: white;
+     border-top-right-radius: 50px;
+
+}
+#calculatedhours{
+    margin-left: 475px;
+    position: relative;
+    bottom: 197px;
+    color: red;
+    padding: 10px;
+    
+    
+
+
+
+}
+#calculatedhours2{
+    margin-left: 475px;
+    position: relative;
+    bottom: 197px;
+    color: red;
+    padding: 10px;
+    
+
+
+
+}
+#calculatedhours3{
+    margin-left: 475px;
+    position: relative;
+    bottom: 197px;
+    color: red;
+    padding: 10px;
+    
+
+
+
+}
+#calculatedhours4{
+    margin-left: 475px;
+    position: relative;
+    bottom: 197px;
+    color: red;
+    padding: 10px;
+    
+
+
+
+}
+
+#view{
+    height: 30px;
+    width:170px;
+    margin-left: 50px ;
+    bottom: 50px;
+    border-style: groove;
+    border-left: none;
+    border-bottom: none;  
+    background-color: white;
+    border-radius: 18px;
+
+    
+
+}
+#view:hover{
+    background-color: antiquewhite;
+    color: black;
+    
+}
+
+    
+
+.hide{
+    display: none;
+    
+}
+
+.background{
+    border: 1px solid;
+    height: 905px;
+}
+
+#logintocontinue{
+    text-align: center;
+    font-family: fantasy;
+
+    font-size: 20px;
+    
+}
+
+#forgetbtn{
+    display: inline;
+    position: relative;
+    left: 170px;
+    border: none;
+    background-color: white;
+    text-decoration: underline;
+    color: blue;
+    bottom: 20px;
+    font-size: small;
+}
+
+
+
+
+
+
+
+
